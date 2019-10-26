@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BookBus/static/css/main.c6281679.chunk.css",
+    "main.js": "/BookBus/static/js/main.1307fe08.chunk.js",
+    "main.js.map": "/BookBus/static/js/main.1307fe08.chunk.js.map",
+    "runtime-main.js": "/BookBus/static/js/runtime-main.83b988fc.js",
+    "runtime-main.js.map": "/BookBus/static/js/runtime-main.83b988fc.js.map",
+    "static/css/2.3d3bf914.chunk.css": "/BookBus/static/css/2.3d3bf914.chunk.css",
+    "static/js/2.44aa07b2.chunk.js": "/BookBus/static/js/2.44aa07b2.chunk.js",
+    "static/js/2.44aa07b2.chunk.js.map": "/BookBus/static/js/2.44aa07b2.chunk.js.map",
+    "index.html": "/BookBus/index.html",
+    "precache-manifest.fb2534683728e830cb5bcc9620399c2e.js": "/BookBus/precache-manifest.fb2534683728e830cb5bcc9620399c2e.js",
+    "service-worker.js": "/BookBus/service-worker.js",
+    "static/css/2.3d3bf914.chunk.css.map": "/BookBus/static/css/2.3d3bf914.chunk.css.map",
+    "static/css/main.c6281679.chunk.css.map": "/BookBus/static/css/main.c6281679.chunk.css.map",
+    "static/media/notifications.css": "/BookBus/static/media/notification.c0d3c94c.eot"
+  }
+}
