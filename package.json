@@ -1,0 +1,49 @@
+{
+  "homepage": "https://atix28.github.io/Book_Bus/",
+  "name": "bus_booking",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body": "^5.1.0",
+    "bootstrap": "^4.3.1",
+    "dotenv": "^7.0.0",
+    "emailjs-com": "^2.3.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "firebase": "^6.6.2",
+    "gh-pages": "^2.1.1",
+    "mdbreact": "^4.13.0",
+    "nodemailer": "^6.1.1",
+    "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-dom": "^16.9.0",
+    "react-notifications": "^1.4.3",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
